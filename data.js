@@ -6,7 +6,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Mid",
     "liga":"Oro II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:32:58",
@@ -15,7 +15,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:33:31",
@@ -24,7 +24,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:33:44",
@@ -33,7 +33,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"ADC",
     "liga":"Bronce I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:34:28",
@@ -42,7 +42,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"ADC",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:35:05",
@@ -51,7 +51,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"ADC",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:35:24",
@@ -60,7 +60,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"Plata V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:35:25",
@@ -69,7 +69,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"Platino IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:36:26",
@@ -78,7 +78,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Plata III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:37:10",
@@ -87,7 +87,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:37:30",
@@ -96,7 +96,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Jungla",
     "liga":"Bronce III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:38:39",
@@ -105,7 +105,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Jungla",
     "liga":"Platino V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:38:55",
@@ -114,7 +114,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Platino V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:39:56",
@@ -123,7 +123,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"Oro I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:40:22",
@@ -132,7 +132,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:42:24",
@@ -141,7 +141,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Support",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:43:51",
@@ -150,7 +150,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"Plata V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:44:01",
@@ -159,7 +159,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Bronce I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:44:56",
@@ -168,7 +168,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:45:24",
@@ -177,7 +177,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:49:17",
@@ -186,7 +186,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Top",
     "liga":"Oro III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:51:35",
@@ -195,7 +195,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Oro IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:54:26",
@@ -204,7 +204,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"Oro V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:54:29",
@@ -213,7 +213,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"ADC",
     "liga":"Bronce II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:55:08",
@@ -222,7 +222,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Oro III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:55:35",
@@ -231,7 +231,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:56:57",
@@ -240,7 +240,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"Plata V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:57:50",
@@ -249,7 +249,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"Platino IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 15:59:38",
@@ -258,7 +258,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Mid",
     "liga":"Oro IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:00:11",
@@ -267,7 +267,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:01:22",
@@ -276,7 +276,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Jungla",
     "liga":"Platino I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:02:39",
@@ -285,7 +285,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Jungla",
     "liga":"Bronce II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:02:46",
@@ -294,7 +294,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Jungla",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:03:02",
@@ -303,7 +303,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Support",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:05:03",
@@ -312,7 +312,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Mid",
     "liga":"Oro III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:05:50",
@@ -321,7 +321,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:09:02",
@@ -330,7 +330,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"ADC",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:10:10",
@@ -339,7 +339,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:11:02",
@@ -348,7 +348,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Mid",
     "liga":"Platino III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:11:21",
@@ -357,7 +357,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Mid",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:12:13",
@@ -366,7 +366,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"Plata V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:23:39",
@@ -375,7 +375,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"Bronce III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:27:42",
@@ -384,7 +384,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Jungla",
     "liga":"Bronce I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:30:02",
@@ -393,7 +393,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:32:41",
@@ -402,7 +402,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:36:40",
@@ -411,7 +411,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:45:15",
@@ -420,7 +420,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Jungla",
     "liga":"Oro I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:46:53",
@@ -429,7 +429,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Bronce I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:47:56",
@@ -438,7 +438,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Top",
     "liga":"Platino I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:48:21",
@@ -447,7 +447,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Jungla",
     "liga":"Platino V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:54:45",
@@ -456,7 +456,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Bronce V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 16:59:22",
@@ -465,7 +465,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:05:28",
@@ -474,7 +474,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Top",
     "liga":"Platino I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:13:49",
@@ -483,7 +483,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Mid",
     "liga":"Bronce II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:07:43",
@@ -492,7 +492,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"ADC",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:08:03",
@@ -501,7 +501,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:15:08",
@@ -510,7 +510,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:22:25",
@@ -519,7 +519,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"Bronce IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:57:04",
@@ -528,7 +528,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Support",
     "liga":"Platino II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 17:58:34",
@@ -537,7 +537,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"ADC",
     "liga":"Platino III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:00:30",
@@ -546,7 +546,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:07:15",
@@ -555,7 +555,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Support",
     "liga":"Plata III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:13:07",
@@ -564,7 +564,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"ADC",
     "liga":"Plata II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:25:27",
@@ -573,7 +573,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"Plata III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:26:06",
@@ -582,7 +582,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Bronce III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:32:41",
@@ -591,7 +591,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"ADC",
     "liga":"Bronce I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:34:28",
@@ -600,7 +600,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Jungla",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:37:27",
@@ -609,7 +609,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"Oro V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:46:38",
@@ -618,7 +618,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"ADC",
     "liga":"Oro V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 18:59:31",
@@ -627,7 +627,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Mid",
     "liga":"Platino IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 19:23:31",
@@ -636,7 +636,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"ADC",
     "liga":"Platino V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 19:39:34",
@@ -645,7 +645,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Jungla",
     "liga":"Oro II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 19:41:33",
@@ -654,7 +654,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"No Ranked",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 19:43:06",
@@ -663,7 +663,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Plata III",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 19:54:06",
@@ -672,7 +672,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Mid",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 20:18:02",
@@ -681,7 +681,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Top",
     "liga":"Bronce IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 21:03:02",
@@ -690,7 +690,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Support",
     "liga":"Oro I",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 21:51:26",
@@ -699,7 +699,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"Oro II",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 22:11:32",
@@ -708,7 +708,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Mid",
     "liga":"Plata V",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 22:20:41",
@@ -717,7 +717,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Support",
     "liga":"Plata IV",
-    "rol":""
+    "role":"Player"
   },
   {
     "marcaTemporal":"29/03/2015 23:35:44",
@@ -726,7 +726,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"ADC",
     "liga":"Oro III",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 0:03:25",
@@ -735,7 +735,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Platino I",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 10:42:18",
@@ -744,7 +744,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"Plata III",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 11:36:12",
@@ -753,7 +753,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Jungla",
     "liga":"Oro V",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 11:50:02",
@@ -762,7 +762,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Mid",
     "liga":"No Ranked",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 13:20:46",
@@ -771,7 +771,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Mid",
     "liga":"Bronce II",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 13:27:43",
@@ -780,7 +780,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"ADC",
     "liga":"Bronce IV",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 13:33:08",
@@ -789,7 +789,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"ADC",
     "liga":"Bronce I",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 16:25:32",
@@ -798,7 +798,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Mid",
     "liga":"Platino I",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 17:51:23",
@@ -807,7 +807,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Platino IV",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 21:07:38",
@@ -816,7 +816,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Mid",
     "liga":"Plata II",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 21:16:37",
@@ -825,7 +825,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Jungla",
     "liga":"Oro IV",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"30/03/2015 21:46:12",
@@ -834,7 +834,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Top",
     "liga":"Platino III",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"31/03/2015 3:26:25",
@@ -843,7 +843,7 @@ module.exports.data = [
     "posicionPrimaria":"Mid",
     "posicionSecundaria":"Top",
     "liga":"No Ranked",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"31/03/2015 9:42:30",
@@ -852,7 +852,7 @@ module.exports.data = [
     "posicionPrimaria":"ADC",
     "posicionSecundaria":"Support",
     "liga":"Platino II",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"31/03/2015 10:21:58",
@@ -861,7 +861,7 @@ module.exports.data = [
     "posicionPrimaria":"Jungla",
     "posicionSecundaria":"Top",
     "liga":"Plata IV",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"31/03/2015 17:16:12",
@@ -870,7 +870,7 @@ module.exports.data = [
     "posicionPrimaria":"Support",
     "posicionSecundaria":"Jungla",
     "liga":"Bronce II",
-    "rol":"Suplente"
+    "role":"Suplente"
   },
   {
     "marcaTemporal":"31/03/2015 21:48:19",
@@ -879,7 +879,7 @@ module.exports.data = [
     "posicionPrimaria":"Top",
     "posicionSecundaria":"Support",
     "liga":"Bronce I",
-    "rol":"Suplente"
+    "role":"Suplente"
   }
 ];
 
