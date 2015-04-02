@@ -1,0 +1,22 @@
+{
+  "name": "lol-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svzosorio/lol-matcher.git"
+  },
+  "author": "Sebastián Osorio <svzosorio@boolinc.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svzosorio/lol-matcher/issues"
+  },
+  "homepage": "https://github.com/svzosorio/lol-matcher",
+  "dependencies": {
+    "underscore": "^1.8.2"
+  }
+}
