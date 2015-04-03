@@ -13,9 +13,13 @@ var totalPoints = 0
 main();
 
 function main(){
-
+    printValues();
     init();
     match();
+};
+
+function printValues(){
+    console.log(rankPoints);
 };
 
 function init(){
