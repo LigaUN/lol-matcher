@@ -42,10 +42,11 @@ function init(){
     //Evalue the numberOfTeams' points
     for(var x = 0; x < numberOfTeams*playersPerTeam; x++){
         totalPoints = totalPoints + rankPoints[data[x].liga];
-    };
+    }
 
     pointsPerTeam = totalPoints/numberOfTeams;
-};
+    console.log('Points per team', pointsPerTeam);
+}
 
 function match(){
 
