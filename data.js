@@ -907,5 +907,12 @@ module.exports.rankPoints = function(teams){
         "Platino III": 20*teams,
         "Platino II": 21*teams,
         "Platino I": 22*teams,
+        "Diamante V": 23*teams,
+        "Diamante IV": 24*teams,
+        "Diamante III": 25*teams,
+        "Diamante II": 26*teams,
+        "Diamante I": 27*teams,
+        "Maestro": 28*teams,
+        "Challenger": 29*teams
     };
 };
