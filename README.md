@@ -1,1 +1,1 @@
-# lol-matcher
+# LoL Tournaments' matcher
